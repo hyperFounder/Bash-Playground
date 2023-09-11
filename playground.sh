@@ -1,5 +1,6 @@
 # Returns the sum of 2 numbers
 function add_numbers(){
+     # $1 refers to the first argument, $2 to the second, and so on.
     local num1=$1
     local num2=$2
     local sum=$((num1+num2))
@@ -36,3 +37,24 @@ function square(){
     result=$((base**power))
     echo "$result"
 }
+
+# Calculate factorial of a given number (while loop)
+function calculate_factorial() {
+    local num=$1
+    local counter=$num
+    local factorial=1
+
+    if [[ $num -eq 0 || $num -eq 1 ]]; then
+        echo "Factorial of $num: 1"
+    else
+        while [ $counter -gt 0 ]; do
+            factorial=$((factorial * counter))
+            counter=$((counter - 1))
+        done
+        echo "Factorial of $num: $factorial"
+    fi
+}
+
+echo "Please input a number"
+read user_input
+calculate_factorial $user_input
