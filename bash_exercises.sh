@@ -8,9 +8,6 @@ function textfile() {
     wc -w $file | cut -d "$first_char" -f1; echo "words"
 }
 
-echo -n "Please input a file name: "
-read -r userinput
-textfile $userinput
-
-#Write a script that reads a CSV file and displays its contents in a formatted table.
-#Make sure the script handles different delimiters and optional headers in the CSV file.
+#echo -n "Please input a file name: "
+#read -r userinput
+#textfile $userinput
