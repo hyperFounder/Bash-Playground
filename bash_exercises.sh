@@ -8,6 +8,6 @@ function textfile() {
     wc -w $file | cut -d "$first_char" -f1; echo "words"
 }
 
-#echo -n "Please input a file name: "
-#read -r userinput
-#textfile $userinput
+echo -n "Please input a file name: "
+read -r userinput
+textfile $userinput
