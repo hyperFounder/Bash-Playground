@@ -6,7 +6,6 @@
 function celsius_to_fah(){
   echo -n "Celsius (C) temperature: "
   read -r celsius_temp
-
   celsius_to_fah=$(((celsius_temp * 9/5) +32))
   echo "Fahrenheit (F): ${celsius_to_fah}"
 }

@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Returns the sum of 2 numbers
 function add_numbers(){
      # $1 refers to the first argument, $2 to the second, and so on.
