@@ -28,7 +28,7 @@ curl wttr.in/casablanca
 ```
 - which prints the following to stdout:
 
-<img class="h-auto max-w-full"  width="45%" height="17%" src="ETL Weather Report/img/img.png" alt="image description">
+<img class="h-auto max-w-full"  width="80%" height="17%" src="https://github.com/hyperFounder/Bash-Playground/blob/main/ETL%20Weather%20Report/img/img.png">
 
 ### Weather reporting tasks
 
@@ -39,4 +39,4 @@ You must extract and store the following data every day at noon, local time, for
 
 Here is an example of what the the resulting weather report should look like:
 
-<img class="h-auto max-w-full"  width="45%" height="17%" src="ETL Weather Report/img/table.png" alt="image description">
+<img class="h-auto max-w-full"  width="45%" height="17%" src="https://github.com/hyperFounder/Bash-Playground/blob/main/ETL%20Weather%20Report/img/table.png">
