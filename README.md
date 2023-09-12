@@ -3,8 +3,6 @@ This repository is a collection of Bash scripts designed to help beginners learn
 
 ## Features:
 
-- Backup Scheduler: A script that automates your backup routine. Configure it to schedule regular backups of your files and directories.
-
 - [Temperature Converter](https://github.com/hyperFounder/Bash-Playground/tree/main/temp-converter): Convert temperatures between Celsius and Fahrenheit with a user-friendly interface. 
 
 - [CSV Parser](https://github.com/hyperFounder/Bash-Playground/tree/main/csv-parser): Parse and display the contents of CSV files. 
