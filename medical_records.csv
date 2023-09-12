@@ -1,0 +1,31 @@
+Patient ID,First Name,Last Name,Gender,Age,Diagnosis,Prescription
+1,John,Doe,Male,45,Hypertension,Losartan
+2,Jane,Smith,Female,32,Diabetes,Metformin
+3,Michael,Johnson,Male,60,Heart Disease,Aspirin
+4,Emily,Williams,Female,28,Asthma,Albuterol
+5,Robert,Brown,Male,38,Allergies,Loratadine
+6,Susan,Anderson,Female,50,High Cholesterol,Simvastatin
+7,David,Lee,Male,22,Flu,Rest and Hydration
+8,Linda,Clark,Female,42,Arthritis,Ibuprofen
+9,James,Wilson,Male,55,Obesity,Weight Management Plan
+10,Sarah,Moore,Female,35,Migraine,Sumatriptan
+11,William,Taylor,Male,48,Depression,Sertraline
+12,Elizabeth,Hall,Female,29,Anxiety,Counseling
+13,Joseph,White,Male,40,Insomnia,Melatonin
+14,Mary,King,Female,65,Osteoporosis,Alendronate
+15,Christopher,Richardson,Male,33,Acne,Topical Antibiotics
+16,Amanda,Evans,Female,27,Influenza,Rest and Hydration
+17,Daniel,Parker,Male,58,High Blood Pressure,Amlodipine
+18,Karen,Harris,Female,44,High Blood Pressure,Hydrochlorothiazide
+19,Matthew,Thomas,Male,37,Diabetes,Insulin Glargine
+20,Patricia,Allen,Female,60,Heart Disease,Nitroglycerin
+21,Andrew,Scott,Male,30,Allergies,Cetirizine
+22,Laura,Garcia,Female,28,Asthma,Fluticasone
+23,Richard,Rodriguez,Male,52,High Cholesterol,Atorvastatin
+24,Kimberly,Wright,Female,41,Anxiety,Escitalopram
+25,Steven,Adams,Male,43,Obesity,Orlistat
+26,Margaret,Hernandez,Female,36,Migraine,Rizatriptan
+27,Christopher,Lewis,Male,45,Depression,Fluoxetine
+28,Donna,Jackson,Female,56,Insomnia,Zolpidem
+29,Charles,Green,Male,59,Osteoporosis,Calcium Supplements
+30,Deborah,Turner,Female,34,Acne,Salicylic Acid
