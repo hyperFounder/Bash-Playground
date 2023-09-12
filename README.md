@@ -5,11 +5,11 @@ This repository is a collection of Bash scripts designed to help beginners learn
 
 - Backup Scheduler: A script that automates your backup routine. Configure it to schedule regular backups of your files and directories.
 
-- [Temperature Converter]([https://github.com/hyperFounder/Bash-Playground/blob/main/tmp_cnvrt.sh](https://github.com/hyperFounder/Bash-Playground/tree/main/temp-converter)): Convert temperatures between Celsius and Fahrenheit with a user-friendly interface. 
+- [Temperature Converter](https://github.com/hyperFounder/Bash-Playground/tree/main/temp-converter): Convert temperatures between Celsius and Fahrenheit with a user-friendly interface. 
 
-- [CSV Parser]([https://github.com/hyperFounder/Bash-Playground/blob/main/csv_parser.sh](https://github.com/hyperFounder/Bash-Playground/tree/main/csv-parser)): Parse and display the contents of CSV files. 
+- [CSV Parser](https://github.com/hyperFounder/Bash-Playground/tree/main/csv-parser): Parse and display the contents of CSV files. 
 
-- [Word Counter]([https://github.com/hyperFounder/Bash-Playground/blob/main/bash_script.sh](https://github.com/hyperFounder/Bash-Playground/tree/main/word-count)): A bash script that provides a quick and accurate word count for your text files.
+- [Word Counter](https://github.com/hyperFounder/Bash-Playground/tree/main/word-count): A bash script that provides a quick and accurate word count for your text files.
 
 ### Usage:
 
